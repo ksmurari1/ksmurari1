@@ -1,10 +1,20 @@
-# Hi, I'm Murari Konduru 👋
+<p align="center">
+  <img src="profile-banner.png" alt="Murari Konduru — Enterprise Data and BI Architect" width="100%">
+</p>
 
-### Enterprise Data & BI Architect | Applied AI | Generative AI | AI Automation
+<h2 align="center">Murari Konduru</h2>
 
-I bring 20+ years of experience in Business Intelligence, analytics, and enterprise data solutions, and am expanding that foundation into Generative AI, Retrieval-Augmented Generation (RAG), knowledge graphs, and AI-powered automation.
+<p align="center">
+  <strong>Enterprise Data & BI Architect | Applied GenAI | RAG | AI Automation</strong>
+</p>
 
-My focus is on designing practical, scalable solutions that connect enterprise data, intelligent applications, and business outcomes.
+<p align="center">
+  Solve Business Problems · Empower People · Create Lasting Impact
+</p>
+
+---
+
+## 🎯 Areas of Focus
 
 ---
 
