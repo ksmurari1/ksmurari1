@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Enterprise Data & BI Architect | Applied GenAI | RAG | AI Automation</strong>
+  <strong>Enterprise Data & BI Architect | Power BI | Applied GenAI | RAG | AI Automation</strong>
 </p>
 
 <p align="center">
