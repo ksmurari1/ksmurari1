@@ -16,10 +16,6 @@
 
 ## 🎯 Areas of Focus
 
----
-
-## 🎯 Areas of Focus
-
 - **Enterprise Data & BI:** Power BI, DAX, Microsoft Fabric, data visualization, and analytics architecture
 - **Applied GenAI & RAG:** Document intelligence, semantic retrieval, vector databases, and knowledge-grounded assistants
 - **Knowledge Graphs:** Entity relationships, graph-based retrieval, and knowledge-driven applications
