@@ -2,8 +2,6 @@
   <img src="profile-banner.png" alt="Murari Konduru — Enterprise Data and BI Architect" width="100%">
 </p>
 
-<h2 align="center">Murari Konduru</h2>
-
 <p align="center">
   <strong>Enterprise Data & BI Architect | Applied GenAI | RAG | AI Automation</strong>
 </p>
